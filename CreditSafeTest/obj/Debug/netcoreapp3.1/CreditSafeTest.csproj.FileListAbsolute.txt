@@ -1,0 +1,14 @@
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/bin/Debug/netcoreapp3.1/CreditSafeTest
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/bin/Debug/netcoreapp3.1/CreditSafeTest.deps.json
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/bin/Debug/netcoreapp3.1/CreditSafeTest.runtimeconfig.json
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/bin/Debug/netcoreapp3.1/CreditSafeTest.runtimeconfig.dev.json
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/bin/Debug/netcoreapp3.1/CreditSafeTest.dll
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/bin/Debug/netcoreapp3.1/CreditSafeTest.pdb
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/obj/Debug/netcoreapp3.1/CreditSafeTest.csproj.AssemblyReference.cache
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/obj/Debug/netcoreapp3.1/CreditSafeTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/obj/Debug/netcoreapp3.1/CreditSafeTest.AssemblyInfoInputs.cache
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/obj/Debug/netcoreapp3.1/CreditSafeTest.AssemblyInfo.cs
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/obj/Debug/netcoreapp3.1/CreditSafeTest.csproj.CoreCompileInputs.cache
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/obj/Debug/netcoreapp3.1/CreditSafeTest.dll
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/obj/Debug/netcoreapp3.1/CreditSafeTest.pdb
+/Users/ololadeoyebanji/Projects/CreditSafeTest/CreditSafeTest/obj/Debug/netcoreapp3.1/CreditSafeTest.genruntimeconfig.cache
